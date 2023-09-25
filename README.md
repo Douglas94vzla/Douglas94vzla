@@ -1,5 +1,5 @@
-<a href="https://drive.google.com/file/d/15iG1BNPCtC_7pkk0B8wUS_-eWdMmzH9U/view?usp=drive_link">
-  <img src="https://drive.google.com/file/d/15iG1BNPCtC_7pkk0B8wUS_-eWdMmzH9U/view?usp=drive_link" style="width: 1584px; max-width: 100%; 
+<a href="https://drive.google.com/uc?export=view&id=15iG1BNPCtC_7pkk0B8wUS_-eWdMmzH9U">
+  <img src="https://drive.google.com/uc?export=view&id=15iG1BNPCtC_7pkk0B8wUS_-eWdMmzH9U" style="width: 1584px; max-width: 100%; 
   height: 396" align="center" title="Data Scientist" /></a>
 
 
