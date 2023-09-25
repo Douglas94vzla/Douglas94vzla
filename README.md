@@ -1,4 +1,8 @@
-### Hi there 👋
+<a href="[https://drive.google.com/uc?export=view&id=156JToMalCliB0lqGFhlN5J7miWuwONAd]">
+  <img src="[https://drive.google.com/uc?export=view&id=156JToMalCliB0lqGFhlN5J7miWuwONAd]" style="width: 1584px; max-width: 100%; 
+  height: 396" align="center" title="Data Scientist" /></a>
+
+
  <h1 align="center">Hi 👋, I'm Douglas</h1>
 <h3 align="center">Data Scientist from Venezuela</h3>
 
