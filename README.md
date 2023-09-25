@@ -18,3 +18,8 @@
   
 - ⚡ Fun fact: I lived in Venezuela and play softball.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/douglas-alvarez-579b9125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Douglas Alvarez" height="30" width="40" /></a>
+</p>
+
