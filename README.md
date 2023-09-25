@@ -6,7 +6,7 @@
  <h1 align="center">Hi 👋, I'm Douglas</h1>
 <h3 align="center">Data Scientist from Venezuela</h3>
 
-- 🔭 I’m currently working on [Data Science Bootcamp]https://github.com/Douglas94vzla/Tripleten-Projects
+- 🔭 I’m currently working on [Data Science Bootcamp](https://github.com/Douglas94vzla/Tripleten-Projects)
 
 - 🌱 I’m currently learning Machine learning with Python
   
