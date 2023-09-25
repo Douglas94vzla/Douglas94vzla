@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Data Science Bootcamp](https://github.com/Douglas94vzla/Tripleten-Projects)
 
-- 🌱 I’m currently learning Machine learning with Python
+- 🌱 I’m currently learning **Machine Learning with Python**
   
 - 👨‍🏫 All of my projects are available at: [https://github.com/Douglas94vzla](https://github.com/Douglas94vzla)
 
